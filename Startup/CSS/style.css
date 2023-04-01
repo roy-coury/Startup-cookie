@@ -1,0 +1,48 @@
+/* Colors and font */
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,300;1,200&family=Oswald&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+font-family: 'Nunito Sans', serif;
+font-size: 25px;
+margin: 0px;
+background-color: floralwhite;
+}
+
+ h1 {
+ 	font-family: 'Oswald', cursive; 
+ 	margin-top: 0px;
+ 	font-size: 55px;
+
+ }
+
+ h2{
+	font-family: 'Oswald', cursive; 
+	font-size: 30px;
+	font-weight: bold ;
+	margin-top: 40px;
+
+}
+
+h3 {
+ font-family: 'Oswald', serif;
+ font-size: 40px;
+
+
+}
+
+a {
+	text-decoration: none;
+}
+
+
+.img-star {
+width: 100px;
+height: 100px;
+}

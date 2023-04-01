@@ -1,0 +1,13 @@
+.btn-blue {
+ background-color: burlywood;
+ padding: 10px 15px;
+ border-radius: 5px;
+ color: white;
+ font-weight: bold;
+ font-family: 'Oswald', serif;
+ margin-bottom: 60px;
+}
+
+.btn-blue:hover {
+	background-color: saddlebrown;
+}
